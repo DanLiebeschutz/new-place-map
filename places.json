@@ -1,0 +1,107 @@
+{
+  "origin": {
+    "lat": 38.959899,
+    "lng": -9.414436
+  },
+  "items": [
+    {
+      "category": "cafes,restaurants",
+      "name": "Balagan Ericeira",
+      "rating": 4.6,
+      "reviews": 1213,
+      "walk_min": 10,
+      "place_id": "ChIJJ8sswvEnHw0RwyCFK4eSBlA",
+      "lat": 38.9586809,
+      "lng": -9.415517099999999,
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8sswvEnHw0RwyCFK4eSBlA"
+    },
+    {
+      "category": "cafes",
+      "name": "Tiger & Chick - Coffee and Delights",
+      "rating": 4.9,
+      "reviews": 297,
+      "walk_min": 7,
+      "place_id": "ChIJHTAWjPYnHw0R70QmLlxQWPA",
+      "lat": 38.9637129,
+      "lng": -9.4168346,
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTAWjPYnHw0R70QmLlxQWPA"
+    },
+    {
+      "category": "cafes",
+      "name": "SANO CAFÉ",
+      "rating": 4.9,
+      "reviews": 125,
+      "walk_min": 5,
+      "place_id": "ChIJ_xB61SsnHw0RTnpsHzn0m6Y",
+      "lat": 38.9624589,
+      "lng": -9.4167233,
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xB61SsnHw0RTnpsHzn0m6Y"
+    },
+    {
+      "category": "coworking",
+      "name": "Kelp Coworking Space Ericeira",
+      "rating": 4.9,
+      "reviews": 72,
+      "walk_min": 14,
+      "place_id": "ChIJB6gPC10nHw0RcRvqZe4q9OY",
+      "lat": 38.9673195,
+      "lng": -9.4176105,
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6gPC10nHw0RcRvqZe4q9OY"
+    },
+    {
+      "category": "coworking",
+      "name": "Coastal Cowork Collective Ericeira",
+      "rating": 5.0,
+      "reviews": 46,
+      "walk_min": 14,
+      "place_id": "ChIJEUMcs-InHw0RNFgk7wlfI7o",
+      "lat": 38.9677083,
+      "lng": -9.4176671,
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUMcs-InHw0RNFgk7wlfI7o"
+    },
+    {
+      "category": "yoga",
+      "name": "The Organic Way Studio",
+      "rating": 4.9,
+      "reviews": 106,
+      "walk_min": 10,
+      "place_id": "ChIJqdv8jb8nHw0RVq_aHONakkk",
+      "lat": 38.9650442,
+      "lng": -9.4166305,
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdv8jb8nHw0RVq_aHONakkk"
+    },
+    {
+      "category": "yoga",
+      "name": "Sandhi House",
+      "rating": 4.7,
+      "reviews": 62,
+      "walk_min": 7,
+      "place_id": "ChIJ-_xTCtInHw0RAVgWhY6_Jjs",
+      "lat": 38.9619762,
+      "lng": -9.4186108,
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_xTCtInHw0RAVgWhY6_Jjs"
+    },
+    {
+      "category": "restaurants",
+      "name": "Pizzeria Pão d'Alho",
+      "rating": 4.6,
+      "reviews": 952,
+      "walk_min": 5,
+      "place_id": "ChIJFxCMzHQnHw0R3ydLJTOfUu0",
+      "lat": 38.9605423,
+      "lng": -9.4151471,
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxCMzHQnHw0R3ydLJTOfUu0"
+    },
+    {
+      "category": "restaurants",
+      "name": "Mar à Vista",
+      "rating": 4.5,
+      "reviews": 1663,
+      "walk_min": 8,
+      "place_id": "ChIJEdJxEgwnHw0RLXR87iJ5g8Y",
+      "lat": 38.9641963,
+      "lng": -9.417649599999999,
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdJxEgwnHw0RLXR87iJ5g8Y"
+    }
+  ]
+}
