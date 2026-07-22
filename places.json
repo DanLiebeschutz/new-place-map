@@ -13,7 +13,7 @@
       "place_id": "ChIJJ8sswvEnHw0RwyCFK4eSBlA",
       "lat": 38.9586809,
       "lng": -9.415517099999999,
-      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8sswvEnHw0RwyCFK4eSBlA"
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Balagan+Ericeira&query_place_id=ChIJJ8sswvEnHw0RwyCFK4eSBlA"
     },
     {
       "category": "cafes",
@@ -24,7 +24,7 @@
       "place_id": "ChIJHTAWjPYnHw0R70QmLlxQWPA",
       "lat": 38.9637129,
       "lng": -9.4168346,
-      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTAWjPYnHw0R70QmLlxQWPA"
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tiger+%26+Chick+-+Coffee+and+Delights&query_place_id=ChIJHTAWjPYnHw0R70QmLlxQWPA"
     },
     {
       "category": "cafes",
@@ -35,7 +35,7 @@
       "place_id": "ChIJ_xB61SsnHw0RTnpsHzn0m6Y",
       "lat": 38.9624589,
       "lng": -9.4167233,
-      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xB61SsnHw0RTnpsHzn0m6Y"
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=SANO+CAF%C3%89&query_place_id=ChIJ_xB61SsnHw0RTnpsHzn0m6Y"
     },
     {
       "category": "coworking",
@@ -46,7 +46,7 @@
       "place_id": "ChIJB6gPC10nHw0RcRvqZe4q9OY",
       "lat": 38.9673195,
       "lng": -9.4176105,
-      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6gPC10nHw0RcRvqZe4q9OY"
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Kelp+Coworking+Space+Ericeira&query_place_id=ChIJB6gPC10nHw0RcRvqZe4q9OY"
     },
     {
       "category": "coworking",
@@ -57,7 +57,7 @@
       "place_id": "ChIJEUMcs-InHw0RNFgk7wlfI7o",
       "lat": 38.9677083,
       "lng": -9.4176671,
-      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUMcs-InHw0RNFgk7wlfI7o"
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Coastal+Cowork+Collective+Ericeira&query_place_id=ChIJEUMcs-InHw0RNFgk7wlfI7o"
     },
     {
       "category": "yoga",
@@ -68,7 +68,7 @@
       "place_id": "ChIJqdv8jb8nHw0RVq_aHONakkk",
       "lat": 38.9650442,
       "lng": -9.4166305,
-      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdv8jb8nHw0RVq_aHONakkk"
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Organic+Way+Studio&query_place_id=ChIJqdv8jb8nHw0RVq_aHONakkk"
     },
     {
       "category": "yoga",
@@ -79,7 +79,7 @@
       "place_id": "ChIJ-_xTCtInHw0RAVgWhY6_Jjs",
       "lat": 38.9619762,
       "lng": -9.4186108,
-      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_xTCtInHw0RAVgWhY6_Jjs"
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sandhi+House&query_place_id=ChIJ-_xTCtInHw0RAVgWhY6_Jjs"
     },
     {
       "category": "restaurants",
@@ -90,7 +90,7 @@
       "place_id": "ChIJFxCMzHQnHw0R3ydLJTOfUu0",
       "lat": 38.9605423,
       "lng": -9.4151471,
-      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxCMzHQnHw0R3ydLJTOfUu0"
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria+P%C3%A3o+d%27Alho&query_place_id=ChIJFxCMzHQnHw0R3ydLJTOfUu0"
     },
     {
       "category": "restaurants",
@@ -101,7 +101,7 @@
       "place_id": "ChIJEdJxEgwnHw0RLXR87iJ5g8Y",
       "lat": 38.9641963,
       "lng": -9.417649599999999,
-      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdJxEgwnHw0RLXR87iJ5g8Y"
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mar+%C3%A0+Vista&query_place_id=ChIJEdJxEgwnHw0RLXR87iJ5g8Y"
     }
   ]
 }

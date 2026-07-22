@@ -22,7 +22,7 @@ async function main(){
     const side=place.lng<places.origin.lng?'left':'right';
     const marker=new google.maps.marker.AdvancedMarkerElement({map,position:{lat:place.lat,lng:place.lng},title:place.name,content:markerNode(emojiFor(place.category),place.category,place.name,side),collisionBehavior:google.maps.CollisionBehavior.REQUIRED,zIndex:Math.min(place.reviews,9999)});
     bounds.extend(marker.position);
-    marker.addListener('click',()=>{info.setContent(`<div class="info"><h3>${emojiFor(place.category)} ${escapeHtml(place.name)}</h3><p>⭐ ${place.rating} · ${place.reviews.toLocaleString()} reviews</p><p>🚶 ${place.walk_min} min from the shared location</p><a href="${place.maps_url}" target="_blank" rel="noopener">Open in Google Maps</a></div>`);info.open({map,anchor:marker});});
+    marker.addListener('click',()=>{info.setContent(`<div class="info"><h3>${emojiFor(place.category)} ${escapeHtml(place.name)}</h3><p>⭐ ${place.rating} · ${place.reviews.toLocaleString()} reviews</p><p>🚶 ${place.walk_min} min from the shared location</p><a href="${place.maps_url}" target="_self">Open in Google Maps</a></div>`);info.open({map,anchor:marker});});
   }
   bounds.extend(places.origin);map.fitBounds(bounds,70);google.maps.event.addListenerOnce(map,'idle',()=>map.setZoom(Math.min((map.getZoom()||15)+1,17)));statusEl.textContent=`${places.items.length} recommendations`;
   let locationMarker=null;
