@@ -25,11 +25,27 @@ async function main(){
     marker.addListener('click',()=>{info.setContent(`<div class="info"><h3>${emojiFor(place.category)} ${escapeHtml(place.name)}</h3><p>⭐ ${place.rating} · ${place.reviews.toLocaleString()} reviews</p><p>🚶 ${place.walk_min} min from the shared location</p><a href="${place.maps_url}" target="_blank" rel="noopener">Open in Google Maps</a></div>`);info.open({map,anchor:marker});});
   }
   bounds.extend(places.origin);map.fitBounds(bounds,70);google.maps.event.addListenerOnce(map,'idle',()=>map.setZoom(Math.min((map.getZoom()||15)+1,17)));statusEl.textContent=`${places.items.length} recommendations`;
-  function locate(){
-    if(!navigator.geolocation){statusEl.textContent='Location is unavailable';return;}
-    statusEl.textContent='Finding your location…';
-    navigator.geolocation.getCurrentPosition(pos=>{const here={lat:pos.coords.latitude,lng:pos.coords.longitude};new google.maps.marker.AdvancedMarkerElement({map,position:here,title:'My location',content:markerNode('●','me','You are here','right','me'),zIndex:100});bounds.extend(here);map.fitBounds(bounds,70);statusEl.textContent=`${places.items.length} recommendations · location shown`;},()=>{statusEl.textContent='Location permission was not granted';},{enableHighAccuracy:true,timeout:12000,maximumAge:60000});
+  let locationMarker=null;
+  function showLocation(pos){
+    const here={lat:pos.coords.latitude,lng:pos.coords.longitude};
+    if(locationMarker) locationMarker.position=here;
+    else locationMarker=new google.maps.marker.AdvancedMarkerElement({map,position:here,title:'My location',content:markerNode('●','me','You are here','right','me'),zIndex:10000});
+    map.panTo(here);map.setZoom(Math.max(map.getZoom()||15,16));
+    statusEl.textContent=`${places.items.length} recommendations · location shown`;
+    locateBtn.textContent='📍 Center on me';locateBtn.disabled=false;
   }
-  locateBtn.addEventListener('click',locate);locate();
+  function locate(){
+    if(locationMarker){map.panTo(locationMarker.position);return;}
+    if(!navigator.geolocation){statusEl.textContent='Location is unavailable in this browser';return;}
+    statusEl.textContent='Finding your location…';
+    locateBtn.disabled=true;
+    navigator.geolocation.getCurrentPosition(showLocation,error=>{
+      const messages={1:'Location access is blocked. Allow it in the browser site settings.',2:'Your location is temporarily unavailable.',3:'Location request timed out. Tap again to retry.'};
+      statusEl.textContent=messages[error.code]||'Could not get your location. Tap again to retry.';
+      locateBtn.disabled=false;
+    },{enableHighAccuracy:false,timeout:20000,maximumAge:300000});
+  }
+  locateBtn.addEventListener('click',locate);
+  statusEl.textContent=`${places.items.length} recommendations · tap location to show yourself`;
 }
 main().catch(err=>{console.error(err);statusEl.textContent='Map failed to load';});
