@@ -39,11 +39,17 @@ async function main(){
     if(!navigator.geolocation){statusEl.textContent='Location is unavailable in this browser';return;}
     statusEl.textContent='Finding your location…';
     locateBtn.disabled=true;
-    navigator.geolocation.getCurrentPosition(showLocation,error=>{
-      const messages={1:'Location access is blocked. Allow it in the browser site settings.',2:'Your location is temporarily unavailable.',3:'Location request timed out. Tap again to retry.'};
+    const fail=error=>{
+      const inApp=/\bwv\b|WebView|FBAN|FBAV|Instagram|Line\//i.test(navigator.userAgent)||(/iPhone|iPad/i.test(navigator.userAgent)&&!/Safari/i.test(navigator.userAgent));
+      const messages={1:'Location access is blocked. Allow it in the browser site settings.',2:inApp?'Location is unavailable inside this app. Open the link in Safari or Chrome and try again.':'Your device could not provide a location. Turn on Location Services and try again.',3:'Location request timed out. Tap again to retry.'};
       statusEl.textContent=messages[error.code]||'Could not get your location. Tap again to retry.';
       locateBtn.disabled=false;
-    },{enableHighAccuracy:false,timeout:20000,maximumAge:300000});
+    };
+    navigator.geolocation.getCurrentPosition(showLocation,firstError=>{
+      if(firstError.code!==2&&firstError.code!==3){fail(firstError);return;}
+      statusEl.textContent='Retrying location…';
+      navigator.geolocation.getCurrentPosition(showLocation,fail,{enableHighAccuracy:false,timeout:20000,maximumAge:600000});
+    },{enableHighAccuracy:true,timeout:30000,maximumAge:0});
   }
   locateBtn.addEventListener('click',locate);
   statusEl.textContent=`${places.items.length} recommendations · tap location to show yourself`;
