@@ -13,7 +13,94 @@
       "place_id": "ChIJJ8sswvEnHw0RwyCFK4eSBlA",
       "lat": 38.9586809,
       "lng": -9.415517099999999,
-      "maps_url": "https://maps.google.com/?q=Balagan+Ericeira%2C+Ericeira%2C+Portugal"
+      "maps_url": "https://maps.google.com/?q=Balagan+Ericeira%2C+Ericeira%2C+Portugal",
+      "reviews_sample": [
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "We LOVED this place and will be back again. I brought my two daughters and we shared the Grand Balagan Mezze and we couldn’t stop saying how amazing it was. We shared other plates and nothing disappointed. Ana was amazing and the view was so beautiful!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We LOVED this place and will be back again. I brought my two daughters and we shared the Grand Balagan Mezze and we couldn’t stop saying how amazing it was. We shared other plates and nothing disappointed. Ana was amazing and the view was so beautiful!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Andi Andrew",
+            "uri": "https://www.google.com/maps/contrib/112817191391146471077/reviews"
+          },
+          "publishTime": "2026-06-07T17:49:04.292313381Z"
+        },
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Right on the ocean with direct sea views, wind in your face and waves in your ears – and a fresh bagel and very good americano. Perfect way to start a day at the beach. Love this place!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Right on the ocean with direct sea views, wind in your face and waves in your ears – and a fresh bagel and very good americano. Perfect way to start a day at the beach. Love this place!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Groovintella",
+            "uri": "https://www.google.com/maps/contrib/100267357357634983415/reviews"
+          },
+          "publishTime": "2026-06-04T10:12:09.939371154Z"
+        },
+        {
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This was probably the best lunch I’ve had in my life! Without exaggeration. The chefs attention to detail, combinations of flavors and presentation 10/10!!\nAlso felt very safe as a celiac person, they have a 95% gluten free menu and are very attentive and aware of cross contamination etc! Also great vegan options! Couldn’t recommend it more!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This was probably the best lunch I’ve had in my life! Without exaggeration. The chefs attention to detail, combinations of flavors and presentation 10/10!!\nAlso felt very safe as a celiac person, they have a 95% gluten free menu and are very attentive and aware of cross contamination etc! Also great vegan options! Couldn’t recommend it more!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Viktor Fors",
+            "uri": "https://www.google.com/maps/contrib/100488012692370451557/reviews"
+          },
+          "publishTime": "2025-11-08T14:51:21.225306404Z"
+        },
+        {
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "My first time in ericeira and coming to balagan has made my trip. Lovely environment with the most impeccable service thanks to Sacha Brito and Mateus Cardoso. They made our experience here 10/10 couldn’t have asked for better service! We love Balagan✨✨✨🇵🇹🇵🇹🇵🇹",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "My first time in ericeira and coming to balagan has made my trip. Lovely environment with the most impeccable service thanks to Sacha Brito and Mateus Cardoso. They made our experience here 10/10 couldn’t have asked for better service! We love Balagan✨✨✨🇵🇹🇵🇹🇵🇹",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tilly Granleese",
+            "uri": "https://www.google.com/maps/contrib/100338847287585411306/reviews"
+          },
+          "publishTime": "2026-04-22T15:50:07.389830749Z"
+        },
+        {
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Just had the best dinner at Balagan during sunset for our anniversary. We got the Seabass over rice for a main to split, the shrimp ceviche, sweet potato fries, and the grilled little gems with sun-dried tomatoes. Between the view, the food, and the incredible service (ask for Sacha, he made our dinner  at!) we will definitely be back. We had multiple drinks and our bill was only 98 euro. Such a great value.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Just had the best dinner at Balagan during sunset for our anniversary. We got the Seabass over rice for a main to split, the shrimp ceviche, sweet potato fries, and the grilled little gems with sun-dried tomatoes. Between the view, the food, and the incredible service (ask for Sacha, he made our dinner  at!) we will definitely be back. We had multiple drinks and our bill was only 98 euro. Such a great value.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Alex Harley Hoffmann",
+            "uri": "https://www.google.com/maps/contrib/109438991583215360264/reviews"
+          },
+          "publishTime": "2025-09-14T20:20:00.845505888Z"
+        }
+      ]
     },
     {
       "category": "cafes",
@@ -24,7 +111,94 @@
       "place_id": "ChIJHTAWjPYnHw0R70QmLlxQWPA",
       "lat": 38.9637129,
       "lng": -9.4168346,
-      "maps_url": "https://maps.google.com/?q=Tiger+%26+Chick+-+Coffee+and+Delights%2C+Ericeira%2C+Portugal"
+      "maps_url": "https://maps.google.com/?q=Tiger+%26+Chick+-+Coffee+and+Delights%2C+Ericeira%2C+Portugal",
+      "reviews_sample": [
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Our favorite coffee spot in Ericeira. Perfect espresso, wonderful freshly baked cakes, cookies and cinnamon rolls. Excellent chia pudding breakfast and sandwiches. The ashwa gold drink and espresso tonics are great. Add to all this, super friendly service. Thanks Tiger & Chick team!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Our favorite coffee spot in Ericeira. Perfect espresso, wonderful freshly baked cakes, cookies and cinnamon rolls. Excellent chia pudding breakfast and sandwiches. The ashwa gold drink and espresso tonics are great. Add to all this, super friendly service. Thanks Tiger & Chick team!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "E",
+            "uri": "https://www.google.com/maps/contrib/110866457385214477602/reviews"
+          },
+          "publishTime": "2026-05-28T20:46:32.106524873Z"
+        },
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "A very cute little cafe with a cozy atmosphere. There are two small tables inside, a bar counter, and a few seats outside. The staff is friendly and welcoming. They offer a wide selection of drinks, cakes, cookies, and a few of food options on the menu.\nOne thing to keep in mind: laptops are not allowed, so it’s not a spot for working remotely.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A very cute little cafe with a cozy atmosphere. There are two small tables inside, a bar counter, and a few seats outside. The staff is friendly and welcoming. They offer a wide selection of drinks, cakes, cookies, and a few of food options on the menu.\nOne thing to keep in mind: laptops are not allowed, so it’s not a spot for working remotely.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Daria Khotuleva",
+            "uri": "https://www.google.com/maps/contrib/106476137009996593906/reviews"
+          },
+          "publishTime": "2026-05-29T22:41:18.652268590Z"
+        },
+        {
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Tiger & Chick is simply fantastic! The food is delicious, and everything is freshly baked every day—you can taste the difference immediately. The service is super friendly and attentive, and it’s available in English, German, and Portuguese. I especially want to highlight the matcha tea, which is really, really good, as well as the hojicha, which was also absolutely delicious. It’s great that, in addition to regular milk, oat milk and pea milk are offered.\nThe cakes and snacks are outstanding overall. Another big plus is that gluten-free options are available. The laptop-free zone also creates a pleasant, relaxed atmosphere. Highly recommended!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Tiger & Chick is simply fantastic! The food is delicious, and everything is freshly baked every day—you can taste the difference immediately. The service is super friendly and attentive, and it’s available in English, German, and Portuguese. I especially want to highlight the matcha tea, which is really, really good, as well as the hojicha, which was also absolutely delicious. It’s great that, in addition to regular milk, oat milk and pea milk are offered.\nThe cakes and snacks are outstanding overall. Another big plus is that gluten-free options are available. The laptop-free zone also creates a pleasant, relaxed atmosphere. Highly recommended!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ale Xandra",
+            "uri": "https://www.google.com/maps/contrib/104263806066018912791/reviews"
+          },
+          "publishTime": "2026-01-12T21:27:33.445772934Z"
+        },
+        {
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Down a pretty side street you will find this adorable quaint café. The cappuccinos were excellent, and the scrambled egg brioche was delicious. We enjoyed the cookies and cake and the staff was incredibly kind and attentive. Great place to stop by!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Down a pretty side street you will find this adorable quaint café. The cappuccinos were excellent, and the scrambled egg brioche was delicious. We enjoyed the cookies and cake and the staff was incredibly kind and attentive. Great place to stop by!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lori",
+            "uri": "https://www.google.com/maps/contrib/111841726108611896556/reviews"
+          },
+          "publishTime": "2026-02-13T05:02:42.511126492Z"
+        },
+        {
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Here you find amazing coffee and delicious homemade food! Everything is prepared with care and great attention to detail, from the perfectly brewed coffee to the fresh, creative menu. Friendly service and a relaxed vibe make it a place you‘ll want to return to again and again. Highly recommended!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Here you find amazing coffee and delicious homemade food! Everything is prepared with care and great attention to detail, from the perfectly brewed coffee to the fresh, creative menu. Friendly service and a relaxed vibe make it a place you‘ll want to return to again and again. Highly recommended!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Brawl News Network",
+            "uri": "https://www.google.com/maps/contrib/102849293989975033282/reviews"
+          },
+          "publishTime": "2026-01-25T18:37:31.714461775Z"
+        }
+      ]
     },
     {
       "category": "cafes",
@@ -35,7 +209,94 @@
       "place_id": "ChIJ_xB61SsnHw0RTnpsHzn0m6Y",
       "lat": 38.9624589,
       "lng": -9.4167233,
-      "maps_url": "https://maps.google.com/?q=SANO+CAF%C3%89%2C+Ericeira%2C+Portugal"
+      "maps_url": "https://maps.google.com/?q=SANO+CAF%C3%89%2C+Ericeira%2C+Portugal",
+      "reviews_sample": [
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Love this place. The coffee is incredible and the café itself has a really cute vibe with dogs running around and tables to sit out in the sunshine.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Love this place. The coffee is incredible and the café itself has a really cute vibe with dogs running around and tables to sit out in the sunshine.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nina Born",
+            "uri": "https://www.google.com/maps/contrib/113039069693874807352/reviews"
+          },
+          "publishTime": "2026-05-27T13:07:35.660547223Z"
+        },
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "I honestly don’t go anywhere but Sano. Such a cool vibe, the matcha is amazing and it’s just the best hang in town!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I honestly don’t go anywhere but Sano. Such a cool vibe, the matcha is amazing and it’s just the best hang in town!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Milena Lubosch",
+            "uri": "https://www.google.com/maps/contrib/115459820635387729491/reviews"
+          },
+          "publishTime": "2026-05-27T10:08:23.528463180Z"
+        },
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Local coffee spot, best flat white in town. Amazing service and the best smiles. Interior and design are on point. Nice location, on a street with no cars. Dog friendly!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Local coffee spot, best flat white in town. Amazing service and the best smiles. Interior and design are on point. Nice location, on a street with no cars. Dog friendly!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Selma Rijkhoff",
+            "uri": "https://www.google.com/maps/contrib/118146264639192784363/reviews"
+          },
+          "publishTime": "2026-05-30T08:41:58.719458187Z"
+        },
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Super cute cafe in the heart of ericeira! Had an amazing matcha latte here and a delicious pastry 😍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Super cute cafe in the heart of ericeira! Had an amazing matcha latte here and a delicious pastry 😍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kelsey Van Patten",
+            "uri": "https://www.google.com/maps/contrib/112075911191034962223/reviews"
+          },
+          "publishTime": "2026-05-27T13:16:18.162776968Z"
+        },
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "love this place!!! Amazing atmosphere, kind staff and delicious coffee.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "love this place!!! Amazing atmosphere, kind staff and delicious coffee.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Alegra Organica",
+            "uri": "https://www.google.com/maps/contrib/105742564671856232942/reviews"
+          },
+          "publishTime": "2026-05-27T10:15:19.390133205Z"
+        }
+      ]
     },
     {
       "category": "coworking",
@@ -46,7 +307,94 @@
       "place_id": "ChIJB6gPC10nHw0RcRvqZe4q9OY",
       "lat": 38.9673195,
       "lng": -9.4176105,
-      "maps_url": "https://maps.google.com/?q=Kelp+Coworking+Space+Ericeira%2C+Ericeira%2C+Portugal"
+      "maps_url": "https://maps.google.com/?q=Kelp+Coworking+Space+Ericeira%2C+Ericeira%2C+Portugal",
+      "reviews_sample": [
+        {
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice chilled vibe, owners are awesome. Nice relaxed atmosphere here and well ran. Ability to use the meeting rooms with a day pass unlike others in the area. Nice people seem to gravitate towards here, 100% recommend.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice chilled vibe, owners are awesome. Nice relaxed atmosphere here and well ran. Ability to use the meeting rooms with a day pass unlike others in the area. Nice people seem to gravitate towards here, 100% recommend.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jay Clark",
+            "uri": "https://www.google.com/maps/contrib/113535408571045547157/reviews"
+          },
+          "publishTime": "2021-09-10T13:05:31.103852Z"
+        },
+        {
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Great place to work! Has everything you need: monthly desks, meeting room, call rooms, strong WiFi, quiet, coffee!, dog friendly, outdoor working space when the sun's out, nice atmosphere and very helpful owners :)",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great place to work! Has everything you need: monthly desks, meeting room, call rooms, strong WiFi, quiet, coffee!, dog friendly, outdoor working space when the sun's out, nice atmosphere and very helpful owners :)",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "John O'Sullivan",
+            "uri": "https://www.google.com/maps/contrib/100332859681496625317/reviews"
+          },
+          "publishTime": "2023-02-27T17:53:39.246998Z"
+        },
+        {
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful place to work, with super fast broadband and lovely community already. There is a kitchen, two phone booths and a meeting room. Also very close to the sea (I'm a surfer) and best bakery in town!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful place to work, with super fast broadband and lovely community already. There is a kitchen, two phone booths and a meeting room. Also very close to the sea (I'm a surfer) and best bakery in town!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Patrick C.",
+            "uri": "https://www.google.com/maps/contrib/102290042121290368136/reviews"
+          },
+          "publishTime": "2020-10-23T09:49:45.434637Z"
+        },
+        {
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Love working here - Kelp is a really enjoyable co-working environment. The space is relaxed, calm and also has great interior - lots of cool plants and great furniture. It has 3 rooms for calls, free tea and coffee, super comfy chairs and wide desks that are great to work at. The owners are extremely helpful and welcoming and everyone in the space is friendly. A spare second screen was also provided to me free of charge which has been a lifesaver in the two months I've been here! The location is great, close to a yoga hub, the beach, and a delicious bakery so you can eat your lunch and watch the waves (or surf them!) Would absolutely recommend this coworking space :)",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Love working here - Kelp is a really enjoyable co-working environment. The space is relaxed, calm and also has great interior - lots of cool plants and great furniture. It has 3 rooms for calls, free tea and coffee, super comfy chairs and wide desks that are great to work at. The owners are extremely helpful and welcoming and everyone in the space is friendly. A spare second screen was also provided to me free of charge which has been a lifesaver in the two months I've been here! The location is great, close to a yoga hub, the beach, and a delicious bakery so you can eat your lunch and watch the waves (or surf them!) Would absolutely recommend this coworking space :)",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Laura Connolly",
+            "uri": "https://www.google.com/maps/contrib/114143781938753030579/reviews"
+          },
+          "publishTime": "2022-08-08T10:48:07.807666Z"
+        },
+        {
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I absolutely recommend this co-working place. The owners, the people, the location and the vibe are one of a kind. You can get work done and have nice engagement with like-minded people. The phone booths make it easy to have a call with clients without disturbing anyone or be disturbed yourself. They also organize joint lunches and more activities for the community.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I absolutely recommend this co-working place. The owners, the people, the location and the vibe are one of a kind. You can get work done and have nice engagement with like-minded people. The phone booths make it easy to have a call with clients without disturbing anyone or be disturbed yourself. They also organize joint lunches and more activities for the community.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Reijer Stevens",
+            "uri": "https://www.google.com/maps/contrib/112863928078014525396/reviews"
+          },
+          "publishTime": "2024-01-03T11:50:03.960986Z"
+        }
+      ]
     },
     {
       "category": "coworking",
@@ -57,7 +405,94 @@
       "place_id": "ChIJEUMcs-InHw0RNFgk7wlfI7o",
       "lat": 38.9677083,
       "lng": -9.4176671,
-      "maps_url": "https://maps.google.com/?q=Coastal+Cowork+Collective+Ericeira%2C+Ericeira%2C+Portugal"
+      "maps_url": "https://maps.google.com/?q=Coastal+Cowork+Collective+Ericeira%2C+Ericeira%2C+Portugal",
+      "reviews_sample": [
+        {
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "My happy place for the last two years. Met amazing people over the time, all the coworkers are super friendly and helpful. The atmosphere is friendly, bright and mostly focused. 4 meeting rooms to take calls. Delicious community lunch, because Bruna from vegan home meals delivers directly to the Cowork. Monthly networking events “open coffee Ericeira” where I met so many people of the community. And also for female founders there is a monthly breakfast every Saturday. Myranda is there to welcome you, answer questions or have a chat. super open and friendly manager, best we could imagine 🫶🤩",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "My happy place for the last two years. Met amazing people over the time, all the coworkers are super friendly and helpful. The atmosphere is friendly, bright and mostly focused. 4 meeting rooms to take calls. Delicious community lunch, because Bruna from vegan home meals delivers directly to the Cowork. Monthly networking events “open coffee Ericeira” where I met so many people of the community. And also for female founders there is a monthly breakfast every Saturday. Myranda is there to welcome you, answer questions or have a chat. super open and friendly manager, best we could imagine 🫶🤩",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Claudia Heck",
+            "uri": "https://www.google.com/maps/contrib/117417093277925261865/reviews"
+          },
+          "publishTime": "2025-10-10T08:22:32.486333487Z"
+        },
+        {
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "If you’re thinking of working remotely, coastal is a nice environment. one of the owners, Claudia was really friendly and easy to talk to. I worked 8 days here and met some really nice people, as many others at the office were so friendly! I was at kelp for 1 day and found costal a bit more comfortable and clean.\n\nThe Space\n- nice and clean\n- good coffee ☕️\n- nice little nook in the front looking out the window if you want to eat breakfast there\n-the big meeting room had nice chairs and was a comfortable space. It’s important to book the space ahead of time as it fills up pretty fast.\n-there is a nice big seating area outside to enjoy the sun on your coffee breaks ☀️\n-friendly atmosphere, they plan a few events to get people together during the week like a “community lunch” or after work events.\n- I was able to use a screen and sit in the same spot for 8 days, which was nice ☺️\n- there is an organic cafe just a 2 minute walk away called “be u” and it was so good for lunch!\n- the best bakery is literally just a 1 minute walk away (o Pãozinho das Marias) 🥐\n\nThank you ✨ Hopefully will be back next year!!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "If you’re thinking of working remotely, coastal is a nice environment. one of the owners, Claudia was really friendly and easy to talk to. I worked 8 days here and met some really nice people, as many others at the office were so friendly! I was at kelp for 1 day and found costal a bit more comfortable and clean.\n\nThe Space\n- nice and clean\n- good coffee ☕️\n- nice little nook in the front looking out the window if you want to eat breakfast there\n-the big meeting room had nice chairs and was a comfortable space. It’s important to book the space ahead of time as it fills up pretty fast.\n-there is a nice big seating area outside to enjoy the sun on your coffee breaks ☀️\n-friendly atmosphere, they plan a few events to get people together during the week like a “community lunch” or after work events.\n- I was able to use a screen and sit in the same spot for 8 days, which was nice ☺️\n- there is an organic cafe just a 2 minute walk away called “be u” and it was so good for lunch!\n- the best bakery is literally just a 1 minute walk away (o Pãozinho das Marias) 🥐\n\nThank you ✨ Hopefully will be back next year!!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chelsea Ahlgren",
+            "uri": "https://www.google.com/maps/contrib/106607332237694058109/reviews"
+          },
+          "publishTime": "2024-10-17T16:20:45.494974Z"
+        },
+        {
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Coastal Cowork accommodated our group of 18 at the last minute, thanks to Claudia's excellent organization and clear communication. The smaller but well-kept facilities met all our needs, elevating our remote company trip. We're impressed and grateful for the exceptional service. Highly recommended!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Coastal Cowork accommodated our group of 18 at the last minute, thanks to Claudia's excellent organization and clear communication. The smaller but well-kept facilities met all our needs, elevating our remote company trip. We're impressed and grateful for the exceptional service. Highly recommended!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hanne De Bauw",
+            "uri": "https://www.google.com/maps/contrib/118425587769299270922/reviews"
+          },
+          "publishTime": "2023-10-26T06:44:33.911209Z"
+        },
+        {
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I totally can recommend Coastal Cowork Ericeira. I have a very good time here since 4 months with a monthly pass. The owners are lovely and very open minded. The cowork has everthing that i need, a second screen, comfortable chairs, standing desk, delicious coffee and kombucha and meeting rooms. I enjoy the vibe in the cowork a lot!\nThank you Claudia and Sung for having me!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I totally can recommend Coastal Cowork Ericeira. I have a very good time here since 4 months with a monthly pass. The owners are lovely and very open minded. The cowork has everthing that i need, a second screen, comfortable chairs, standing desk, delicious coffee and kombucha and meeting rooms. I enjoy the vibe in the cowork a lot!\nThank you Claudia and Sung for having me!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Viktoria Gebing",
+            "uri": "https://www.google.com/maps/contrib/105980988126765435385/reviews"
+          },
+          "publishTime": "2024-01-11T11:35:28.371351Z"
+        },
+        {
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I’ve been really enjoying working in this space. It’s clean and quiet and I’m able to get a lot of work done. I love the outside lounge when it’s sunny! Definitely recommend checking this place out if you’re looking for a coworking community!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I’ve been really enjoying working in this space. It’s clean and quiet and I’m able to get a lot of work done. I love the outside lounge when it’s sunny! Definitely recommend checking this place out if you’re looking for a coworking community!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Arielle McCracken",
+            "uri": "https://www.google.com/maps/contrib/117174020071951255926/reviews"
+          },
+          "publishTime": "2024-02-06T15:09:59.089556Z"
+        }
+      ]
     },
     {
       "category": "yoga",
@@ -68,7 +503,94 @@
       "place_id": "ChIJqdv8jb8nHw0RVq_aHONakkk",
       "lat": 38.9650442,
       "lng": -9.4166305,
-      "maps_url": "https://maps.google.com/?q=The+Organic+Way+Studio%2C+Ericeira%2C+Portugal"
+      "maps_url": "https://maps.google.com/?q=The+Organic+Way+Studio%2C+Ericeira%2C+Portugal",
+      "reviews_sample": [
+        {
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "I had such a wonderful experience at The Organic Way. The space has a really warm, calming vibe — perfect for a mindful morning.\n\nI joined a great Pilates class and afterwards enjoyed an amazing breakfast. The cacao was absolutely delicious, and what made the experience even more special was how kind and thoughtful the team was. I loved the cacao so much that they even gave me a little bit of their special spice mix so I could try making it at home.\n\nThat small gesture says a lot about the place: kind people, beautiful energy, great food, and a really welcoming atmosphere. I’ll definitely come back. Highly recommended! 🙏✨",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I had such a wonderful experience at The Organic Way. The space has a really warm, calming vibe — perfect for a mindful morning.\n\nI joined a great Pilates class and afterwards enjoyed an amazing breakfast. The cacao was absolutely delicious, and what made the experience even more special was how kind and thoughtful the team was. I loved the cacao so much that they even gave me a little bit of their special spice mix so I could try making it at home.\n\nThat small gesture says a lot about the place: kind people, beautiful energy, great food, and a really welcoming atmosphere. I’ll definitely come back. Highly recommended! 🙏✨",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Attila Personal Training Düsseldorf",
+            "uri": "https://www.google.com/maps/contrib/110534452002562253832/reviews"
+          },
+          "publishTime": "2026-07-02T11:10:08.205899922Z"
+        },
+        {
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Best coworking area in Ericeira with outstanding lunch meals 😍😍😍\nPet friendly and generally super friendly! Perfect for food, yoga, sauna and work ! Check out the website there is sooo much more",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best coworking area in Ericeira with outstanding lunch meals 😍😍😍\nPet friendly and generally super friendly! Perfect for food, yoga, sauna and work ! Check out the website there is sooo much more",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Elena Pavlenko",
+            "uri": "https://www.google.com/maps/contrib/115396841954023911326/reviews"
+          },
+          "publishTime": "2026-07-10T12:10:35.611320115Z"
+        },
+        {
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "A place filled with connection,community and intentional whole integrated wellness with like minded humans. Thank you for your care with dietary restrictions,it was food for the soul! The Long Table Event was so special and look forward to more gatherings.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A place filled with connection,community and intentional whole integrated wellness with like minded humans. Thank you for your care with dietary restrictions,it was food for the soul! The Long Table Event was so special and look forward to more gatherings.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Eva Woods",
+            "uri": "https://www.google.com/maps/contrib/114789851441440351010/reviews"
+          },
+          "publishTime": "2026-06-18T21:40:41.304521488Z"
+        },
+        {
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Had such a great time at both the pilates class and the breathwork & sound session here! Both were really good, but Toby's breathwork class was honestly an amazing experience — definitely recommend it to anyone. The space itself is beautiful and has such a relaxing vibe, and the sound system in the studio totally deserves a shoutout, perfect for breathwork especially. Would recommend!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had such a great time at both the pilates class and the breathwork & sound session here! Both were really good, but Toby's breathwork class was honestly an amazing experience — definitely recommend it to anyone. The space itself is beautiful and has such a relaxing vibe, and the sound system in the studio totally deserves a shoutout, perfect for breathwork especially. Would recommend!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "M M",
+            "uri": "https://www.google.com/maps/contrib/116466081176566556597/reviews"
+          },
+          "publishTime": "2026-06-26T13:59:18.723021568Z"
+        },
+        {
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This Place is a Must Go! The Cowork Sauna and Plunge combination is amazing!\nHigh-quality and friendly environment.\n;) Thanks for Creating this Space",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This Place is a Must Go! The Cowork Sauna and Plunge combination is amazing!\nHigh-quality and friendly environment.\n;) Thanks for Creating this Space",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "kim silva",
+            "uri": "https://www.google.com/maps/contrib/116581160035148610188/reviews"
+          },
+          "publishTime": "2026-04-02T14:58:39.604002260Z"
+        }
+      ]
     },
     {
       "category": "yoga",
@@ -79,7 +601,94 @@
       "place_id": "ChIJ-_xTCtInHw0RAVgWhY6_Jjs",
       "lat": 38.9619762,
       "lng": -9.4186108,
-      "maps_url": "https://maps.google.com/?q=Sandhi+House%2C+Ericeira%2C+Portugal"
+      "maps_url": "https://maps.google.com/?q=Sandhi+House%2C+Ericeira%2C+Portugal",
+      "reviews_sample": [
+        {
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It’s a whole wonderful vibe.\nI booked the trip really spontaneous because i didn’t feel that well and it was the perfect thing to do in my phrase of healing 🙏🏽\nthe people that work there and also the people that also stay there were all on the same calm energy. the place is also located perfectly and i felt completely safe in the area. it was the best thing i could do for this time! and for sure it wasn’t my last time visiting sandhi house 🫶🏽",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It’s a whole wonderful vibe.\nI booked the trip really spontaneous because i didn’t feel that well and it was the perfect thing to do in my phrase of healing 🙏🏽\nthe people that work there and also the people that also stay there were all on the same calm energy. the place is also located perfectly and i felt completely safe in the area. it was the best thing i could do for this time! and for sure it wasn’t my last time visiting sandhi house 🫶🏽",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Natalie Mueller",
+            "uri": "https://www.google.com/maps/contrib/105646776742191940410/reviews"
+          },
+          "publishTime": "2025-12-14T08:29:08.876133940Z"
+        },
+        {
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I have been enjoying the yoga classes here while visiting Ericeira. All the teachers are so kind and easy to follow. There are a wide variety of styles of yoga classes and all of them have been wonderful.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I have been enjoying the yoga classes here while visiting Ericeira. All the teachers are so kind and easy to follow. There are a wide variety of styles of yoga classes and all of them have been wonderful.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lise Carver",
+            "uri": "https://www.google.com/maps/contrib/111483170387849912350/reviews"
+          },
+          "publishTime": "2026-04-01T07:21:08.283292688Z"
+        },
+        {
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Had a full-body massage with Kairit and it was great. She has amazing hands. She also listens to your body and gives it what it needs. Thanks so much🩷",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had a full-body massage with Kairit and it was great. She has amazing hands. She also listens to your body and gives it what it needs. Thanks so much🩷",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "María Lasa Aresti",
+            "uri": "https://www.google.com/maps/contrib/103415938016663785613/reviews"
+          },
+          "publishTime": "2026-05-16T11:25:03.307751384Z"
+        },
+        {
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 2,
+          "text": {
+            "text": "My suggestion: Ask at the reception if they booked a handyman to drill and hammer the walls right after your massage should have ended. Otherwise you will finish your relaxation time very much stressed.\n\nAnd if you complain, you are the wrong by complaining.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "My suggestion: Ask at the reception if they booked a handyman to drill and hammer the walls right after your massage should have ended. Otherwise you will finish your relaxation time very much stressed.\n\nAnd if you complain, you are the wrong by complaining.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Wagner Silva",
+            "uri": "https://www.google.com/maps/contrib/105833705540124042850/reviews"
+          },
+          "publishTime": "2026-05-01T13:09:17.580350149Z"
+        },
+        {
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "I just held an incredible retreat here, and I can't wait to come back! The retreat home itself is gorgeous, the location is AMAZING, the yoga studio is large and fully stocked, the staff is incredible, the food from their chef was delicious and memorable, the town is adorable with just enough to do...everything was even more perfect than I could have imagined! Kairit is incredible with her attention to detail and ability to help us feel at home, and everyone that works with her is just a gem. I miss them already! I highly recommend staying here ◡̈",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I just held an incredible retreat here, and I can't wait to come back! The retreat home itself is gorgeous, the location is AMAZING, the yoga studio is large and fully stocked, the staff is incredible, the food from their chef was delicious and memorable, the town is adorable with just enough to do...everything was even more perfect than I could have imagined! Kairit is incredible with her attention to detail and ability to help us feel at home, and everyone that works with her is just a gem. I miss them already! I highly recommend staying here ◡̈",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nazli Takesh Boshell",
+            "uri": "https://www.google.com/maps/contrib/110960273933557877020/reviews"
+          },
+          "publishTime": "2025-07-11T17:28:02.331879018Z"
+        }
+      ]
     },
     {
       "category": "restaurants",
@@ -90,7 +699,94 @@
       "place_id": "ChIJFxCMzHQnHw0R3ydLJTOfUu0",
       "lat": 38.9605423,
       "lng": -9.4151471,
-      "maps_url": "https://maps.google.com/?q=Pizzeria+P%C3%A3o+d%27Alho%2C+Ericeira%2C+Portugal"
+      "maps_url": "https://maps.google.com/?q=Pizzeria+P%C3%A3o+d%27Alho%2C+Ericeira%2C+Portugal",
+      "reviews_sample": [
+        {
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Upon entering you just know youre going to enjoy it. Staff is great, food is as great if not better!\nTomato and egg soup is out of this world\nRecomendo!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Upon entering you just know youre going to enjoy it. Staff is great, food is as great if not better!\nTomato and egg soup is out of this world\nRecomendo!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Brando Peres",
+            "uri": "https://www.google.com/maps/contrib/102544613405411975785/reviews"
+          },
+          "publishTime": "2025-04-19T09:46:28.284289Z"
+        },
+        {
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Great Service, super friendly and also fair pricing. The bread and the butter are great. In general the food lacked a little bit of salt and spices. We would go there again.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great Service, super friendly and also fair pricing. The bread and the butter are great. In general the food lacked a little bit of salt and spices. We would go there again.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Roman Willenbrock",
+            "uri": "https://www.google.com/maps/contrib/103491799056744209122/reviews"
+          },
+          "publishTime": "2025-06-14T09:54:52.028035009Z"
+        },
+        {
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 5,
+          "text": {
+            "text": "The best food in Ericeira. The service was awesome! Our waiters and waitresses were so Nice! They made us feel really good. And the food was very very delicious! :) we will definitely come back!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The best food in Ericeira. The service was awesome! Our waiters and waitresses were so Nice! They made us feel really good. And the food was very very delicious! :) we will definitely come back!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Saskia Kuhlmann",
+            "uri": "https://www.google.com/maps/contrib/115900466243749255180/reviews"
+          },
+          "publishTime": "2018-09-18T21:38:30.008565Z"
+        },
+        {
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Loved this pizza restaurant. We ate there twice on holiday - once for take away (super fast service) to watch the sunset and another night, outside of the terrace. The owner and our waitress were so friendly and the pizzas & bread were delicious!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Loved this pizza restaurant. We ate there twice on holiday - once for take away (super fast service) to watch the sunset and another night, outside of the terrace. The owner and our waitress were so friendly and the pizzas & bread were delicious!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "M J",
+            "uri": "https://www.google.com/maps/contrib/118209879765732100599/reviews"
+          },
+          "publishTime": "2025-08-19T20:32:39.626650459Z"
+        },
+        {
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "We tried this pizzeria the first day of our arrival with no great expectation. It was very good and the employee were nice. The pizza are not so big if you have a big appetite. Price is high for the area but it kind of worth it. Obrigado.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We tried this pizzeria the first day of our arrival with no great expectation. It was very good and the employee were nice. The pizza are not so big if you have a big appetite. Price is high for the area but it kind of worth it. Obrigado.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "F T",
+            "uri": "https://www.google.com/maps/contrib/104070868026518942917/reviews"
+          },
+          "publishTime": "2019-09-12T14:48:22.618542Z"
+        }
+      ]
     },
     {
       "category": "restaurants",
@@ -101,7 +797,94 @@
       "place_id": "ChIJEdJxEgwnHw0RLXR87iJ5g8Y",
       "lat": 38.9641963,
       "lng": -9.417649599999999,
-      "maps_url": "https://maps.google.com/?q=Mar+%C3%A0+Vista%2C+Ericeira%2C+Portugal"
+      "maps_url": "https://maps.google.com/?q=Mar+%C3%A0+Vista%2C+Ericeira%2C+Portugal",
+      "reviews_sample": [
+        {
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent and well priced seafood in Ericeira. We had amazing Tiger prawns and clams and then we also ordered a traditional bread stew with lobster - would highly recommend - it’s the Acorda. Waiter was so nice and prices were very good. Would come back if we could",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent and well priced seafood in Ericeira. We had amazing Tiger prawns and clams and then we also ordered a traditional bread stew with lobster - would highly recommend - it’s the Acorda. Waiter was so nice and prices were very good. Would come back if we could",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sandra Lukac",
+            "uri": "https://www.google.com/maps/contrib/112880199888531221955/reviews"
+          },
+          "publishTime": "2025-08-27T09:34:13.833687662Z"
+        },
+        {
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 2,
+          "text": {
+            "text": "Portions are unreasonably priced for the size (see the pictures). We've had the ameijoas à bulhão pato (27€, way to much for this), lacked something in flavor. The camarões tasted nice but 24€ for a small, 1-person serving like - this is Portugal, Ericeira. This is not Saint-Tropez.\nCouldn't help but having the sensation the waiter felt like he was doing us a favor in serving us, not particularly nice. We had the house wine (verde), tasted very watery. Overall way too expensive for what it is.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Portions are unreasonably priced for the size (see the pictures). We've had the ameijoas à bulhão pato (27€, way to much for this), lacked something in flavor. The camarões tasted nice but 24€ for a small, 1-person serving like - this is Portugal, Ericeira. This is not Saint-Tropez.\nCouldn't help but having the sensation the waiter felt like he was doing us a favor in serving us, not particularly nice. We had the house wine (verde), tasted very watery. Overall way too expensive for what it is.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ricardo Beato",
+            "uri": "https://www.google.com/maps/contrib/101061347677962414097/reviews"
+          },
+          "publishTime": "2026-04-02T09:57:55.282550779Z"
+        },
+        {
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "An excellent restaurant for seafood lovers. Great variety and quick preparation. The staff are very friendly and always ready to answer any questions. It’s best to make a reservation in advance.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "An excellent restaurant for seafood lovers. Great variety and quick preparation. The staff are very friendly and always ready to answer any questions. It’s best to make a reservation in advance.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MsAllatt",
+            "uri": "https://www.google.com/maps/contrib/103581576328066501417/reviews"
+          },
+          "publishTime": "2025-10-05T22:07:19.764790542Z"
+        },
+        {
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "If you like seafood this is THE place !\nGreat small restaurant with high quality seafood. We had the crab and clams.\nIt’s was a huge !!\nThe atmosphere is great very local. You come here to eat pay and go. 😁 no messing around.\nThe service is super professional and efficient. The guy knows what he’s doing.\nLove it. !!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "If you like seafood this is THE place !\nGreat small restaurant with high quality seafood. We had the crab and clams.\nIt’s was a huge !!\nThe atmosphere is great very local. You come here to eat pay and go. 😁 no messing around.\nThe service is super professional and efficient. The guy knows what he’s doing.\nLove it. !!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "J B",
+            "uri": "https://www.google.com/maps/contrib/100040266256756617466/reviews"
+          },
+          "publishTime": "2024-09-30T15:48:31.451773Z"
+        },
+        {
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Fantastic seafood restaurant. The staff is kind as it gets and the food is delicious. Really fresh products, you get to choose your own lobster or crab! The clams are very tasty, the prawns were perfectly cooked and the grilled lobster was simply perfect. Good price / quality ratio!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Fantastic seafood restaurant. The staff is kind as it gets and the food is delicious. Really fresh products, you get to choose your own lobster or crab! The clams are very tasty, the prawns were perfectly cooked and the grilled lobster was simply perfect. Good price / quality ratio!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "G. G.E.",
+            "uri": "https://www.google.com/maps/contrib/112424725004419147626/reviews"
+          },
+          "publishTime": "2021-08-02T21:40:53.435378Z"
+        }
+      ]
     }
   ]
 }

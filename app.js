@@ -23,10 +23,22 @@ async function main(){
     const marker=new google.maps.marker.AdvancedMarkerElement({map,position:{lat:place.lat,lng:place.lng},title:place.name,content:markerNode(emojiFor(place.category),place.category,place.name,side),collisionBehavior:google.maps.CollisionBehavior.REQUIRED,zIndex:Math.min(place.reviews,9999)});
     bounds.extend(marker.position);
     marker.addListener('click',()=>{
-      const themes=Array.isArray(place.review_summary)?place.review_summary.slice(0,3):[];
-      const summary=themes.length===3
-        ? `<div class="review-summary"><strong>Recent review highlights</strong><ul>${themes.map(theme=>`<li>${escapeHtml(theme)}</li>`).join('')}</ul><small>AI summary of the available Google reviews from the last 6 months</small></div>`
-        : '<div class="review-summary"><strong>Recent review highlights</strong><p>Not enough recent review data</p></div>';
+      const nativeSummary=place.review_summary;
+      const summaryText=nativeSummary?.text?.text||nativeSummary?.text||'';
+      const disclosure=nativeSummary?.disclosureText?.text||nativeSummary?.disclosureText||'';
+      const summaryLink=nativeSummary?.reviewsUri||place.maps_url;
+      const reviews=Array.isArray(place.reviews_sample)?place.reviews_sample:[];
+      const reviewsHtml=reviews.map(review=>{
+        const author=review.authorAttribution||{};
+        const authorName=author.displayName||'Google Maps user';
+        const authorLabel=author.uri?`<a class="review-author" href="${escapeHtml(author.uri)}" target="_self">${escapeHtml(authorName)}</a>`:`<strong>${escapeHtml(authorName)}</strong>`;
+        const text=review.text?.text||review.originalText?.text||'';
+        const when=review.relativePublishTimeDescription||'';
+        return `<article class="review"><div>${authorLabel}<span class="review-rating">${'★'.repeat(Math.max(0,Math.min(5,review.rating||0)))}</span></div>${when?`<small>${escapeHtml(when)}</small>`:''}<p>${escapeHtml(text)}</p></article>`;
+      }).join('');
+      const summary=summaryText
+        ? `<div class="review-summary"><strong>Google review summary</strong><p>${escapeHtml(summaryText)}</p>${disclosure?`<small>${escapeHtml(disclosure)}</small>`:''}<a href="${escapeHtml(summaryLink)}" target="_self">View reviews on Google Maps</a></div>`
+        : `<div class="review-summary"><strong>Google reviews</strong><small>Up to 5 relevance-selected reviews returned by Google</small>${reviewsHtml?`<div class="reviews-scroll">${reviewsHtml}</div>`:'<p>Reviews unavailable</p>'}</div>`;
       info.setContent(`<div class="info"><h3>${emojiFor(place.category)} ${escapeHtml(place.name)}</h3><p>⭐ ${place.rating} · ${place.reviews.toLocaleString()} reviews</p><p>🚶 ${place.walk_min} min from the shared location</p>${summary}<a href="${place.maps_url}" target="_self">Open in Google Maps</a></div>`);info.open({map,anchor:marker});
     });
   }
